@@ -3333,5 +3333,5 @@ components:
       description: De API-key die je hebt gekregen dient bij elke request via de `X-Api-Key`
         request header meegestuurd te worden. Indien deze niet juist wordt meegestuurd,
         of het een ongeldige key betreft, zul je de foutmelding `403 Forbidden` terugkrijgen.
-      name: X-Api-Key
+      name: l706255b04085f4d308b413ac89d8df3bf
       in: header
